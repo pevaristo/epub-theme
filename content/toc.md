@@ -1,6 +1,6 @@
 ---
-title: "Inhaltsverzeichnis"
-date: 2020-11-19
+title: "Table of Contents"
+date: 2021-01-31
 summary: ""
 description: ""
 NoIntrotext: true
